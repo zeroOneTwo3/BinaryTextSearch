@@ -1,0 +1,12 @@
+{
+    "name": "carzy/binary_search",
+    "require": {
+        "phpunit/phpunit": "4.8"
+    },
+    "authors": [
+        {
+            "name": "zeroOneTwo3",
+            "email": "mdolmatova999@gmail.com"
+        }
+    ]
+}
