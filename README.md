@@ -14,7 +14,7 @@ Where:
 
 \t ~ ASCII=09h
   
-##Theory  
+## Theory  
   To implement a binary search, you start repeatedly narrow the focus of where you're looking for something. 
   You start in middle. If the thing you're looking for comes before the middle, you look between the beginning and the middle. 
   If it comes after the middle, you look between the middle and the end. When you recurse or iterate, the definition of either "end" or 
